@@ -7,6 +7,6 @@ Weights can be downloaded from the output of the kaggle version of this notebook
 https://www.kaggle.com/tbourton/extyaleb-illumination-classification
 
 References:
-"the Exteded Yale Face Database B"
-"From Few to Many: Illumination Cone Models for Face Recognition under Variable Lighting and Pose", PAMI, 2001
-"Acquiring Linear Subspaces for Face Recognition under Variable Lighting", PAMI, May, 200
+ - "the Extended Yale Face Database B"
+ - "From Few to Many: Illumination Cone Models for Face Recognition under Variable Lighting and Pose", PAMI, 2001
+ - "Acquiring Linear Subspaces for Face Recognition under Variable Lighting", PAMI, May, 200
